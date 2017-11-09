@@ -1,0 +1,11 @@
+Package: HiCUtils
+Title: Some tooling for HiC data analysis and visualization
+Version: 0.0.0.9000
+Authors@R: person("Sean", "Davis", email = "seandavi@gmail.com", role = c("aut", "cre"))
+Description: Some tooling for HiC data analysis and visualization
+Depends: R (>= 3.4.1)
+License: MIT
+Url: https://github.com/seandavi/HiCUtils
+BugReports: https://github.com/seandavi/HiCUtils/issues/new
+Encoding: UTF-8
+LazyData: true
